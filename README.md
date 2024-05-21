@@ -10,5 +10,6 @@ Berikut ini adalah daftar artikelnya:
 -   [Cara Mengakses Konten Wikipedia Secara Offline Di Windows](https://github.com/rakifsul/Belajar-Software/blob/main/Cara-Mengakses-Konten-Wikipedia-Secara-Offline-Di-Windows.md)
 -   [Cara Menggunakan Publii Untuk Blog Gratis](https://github.com/rakifsul/Belajar-Software/blob/main/Cara-Menggunakan-Publii-Untuk-Blog-Gratis.md)
 -   [Mengenal NVM Windows Dan Cara Menggunakannya](https://github.com/rakifsul/Belajar-Software/blob/main/Mengenal-NVM-Windows-Dan-Cara-Menggunakannya.md)
+-   [Cara Koneksi Ke IP Address Bluestacks Dari Windows](https://github.com/rakifsul/Belajar-Software/blob/main/Cara-Koneksi-Ke-IP-Address-BlueStacks-Dari-Windows.md)
 
 Selamat menikmati.
