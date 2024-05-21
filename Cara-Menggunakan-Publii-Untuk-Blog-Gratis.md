@@ -98,7 +98,7 @@ Masuklah ke tab “Author”.
 
 Nanti akan muncul tampilan seperti ini:
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_2.png)
 
 Di sini, Anda bisa menulis profil penulis.
 
@@ -116,7 +116,7 @@ Masuklah ke tab “Tags”.
 
 Nanti akan muncul tampilan seperti ini:
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_3.png)
 
 Saat pertama kali dibuka, daftar tag masih kosong.
 
@@ -146,7 +146,7 @@ Masuklah ke tab “Posts”.
 
 Nanti akan muncul tampilan seperti ini:
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_4.png)
 
 Saat ini, postingan masih kosong.
 
@@ -168,7 +168,7 @@ Saat ini, gunakan metode WYSIWYG.
 
 Setelah Anda meng-klik “Add new post”, akan muncul tampilan editor WYSIWYG seperti gambar ini:
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_5.png)
 
 Anda bisa mengisi judul, isi, slug, meta description, thumbnail dan tag di situ.
 
@@ -186,7 +186,7 @@ Selanjutnya klik “Create Backup”.
 
 Seperti di gambar ini:
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_6.png)
 
 #### Langkah 8
 
@@ -198,11 +198,11 @@ Nanti akan muncul tampilan seperti gambar di bawah ini.
 
 Klik “Add New Menu”.
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_7.png)
 
 Beri nama menu sesuai gambar di bawah ini:
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_8.png)
 
 Selanjutnya, klik “Create New Menu”.
 
@@ -210,19 +210,19 @@ Nanti akan muncul tampilan seperti di gambar di bawah ini.
 
 Di sini, assign ke “Main menu”.
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_9.png)
 
 Selanjutnya, menu siap untuk di-edit.
 
 Klik “Add Menu Item” dan isi seperti di gambar di bawah ini.
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_10.png)
 
 Selanjutnya, klik “Add Menu Item” di sidebar kanan.
 
 Hasilnya seperti ini.
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_11.png)
 
 Sementara ini dulu langkah-langkah di sisi client.
 
@@ -238,11 +238,11 @@ Di sana ada “Generate New Token (classic)”. Silakan diklik.
 
 Gambarnya seperti ini:
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_12.png)
 
 Selanjutnya, isi seperti di gambar di bawah ini dan beri nama di bagian “Note”.
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_13.png)
 
 Pilih expiration-nya tanpa batas.
 
@@ -250,7 +250,7 @@ Centang “repo” dan di bawahnya.
 
 Kemudian, klik “Generate Token”
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_14.png)
 
 Copy dan simpan token itu baik-baik. Jangan hilang dan jangan diberikan ke pihak lain.
 
@@ -272,7 +272,7 @@ Buatlah repository baru bernama “nama_akun.github.io”.
 
 Sesuaikan “nama_akun” dengan nama akun GitHub Anda.
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_15.png)
 
 Jadikan repository itu “Public”.
 
@@ -292,7 +292,7 @@ Selanjutnya isi dengan detail di bawah ini:
 
 Gambarnya seperti ini:
 
-![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_1.png)
+![](./.md_asset/Cara-Menggunakan-Publii-Untuk-Blog-Gratis/langkah_16.png)
 
 Kemudian, klik “Test Connection”.
 
