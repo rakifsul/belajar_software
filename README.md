@@ -23,6 +23,7 @@ Berikut ini adalah daftar artikelnya:
 -   [Cara Koneksi Ke IP Address Bluestacks Dari Windows](https://github.com/rakifsul/Belajar-Software/blob/main/Cara-Koneksi-Ke-IP-Address-BlueStacks-Dari-Windows.md)
 -   [Cara Install Code Server Di Ubuntu Server VirtualBox](https://github.com/rakifsul/Belajar-Software/blob/main/Cara-Install-Code-Server-Di-Ubuntu-Server-VirtualBox.md)
 -   [Cara Reboot Ubuntu Dengan Command Line](https://github.com/rakifsul/Belajar-Software/blob/main/Cara-Reboot-Ubuntu-Dengan-Command-Line.md)
+-   [Cara Menginstall XAMPP Di Ubuntu](https://github.com/rakifsul/belajar_software/blob/main/Cara-Menginstall-XAMPP-Di-Ubuntu.md)
 
 Akhir kata, saya meminta kepada Anda untuk mengunjungi link saya ( https://taplink.cc/rakifsul ), mengeksplorasinya, dan lebih baik lagi jika Anda mentraktir saya melalui link tersebut.
 
