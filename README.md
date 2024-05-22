@@ -24,6 +24,7 @@ Berikut ini adalah daftar artikelnya:
 -   [Cara Install Code Server Di Ubuntu Server VirtualBox](https://github.com/rakifsul/Belajar-Software/blob/main/Cara-Install-Code-Server-Di-Ubuntu-Server-VirtualBox.md)
 -   [Cara Reboot Ubuntu Dengan Command Line](https://github.com/rakifsul/Belajar-Software/blob/main/Cara-Reboot-Ubuntu-Dengan-Command-Line.md)
 -   [Cara Menginstall XAMPP Di Ubuntu](https://github.com/rakifsul/belajar_software/blob/main/Cara-Menginstall-XAMPP-Di-Ubuntu.md)
+-   [Cara Mencari File Di Ubuntu Dengan Command Line](https://github.com/rakifsul/belajar_software/blob/main/Cara-Mencari-File-Di-Ubuntu-Dengan-Command-Line.md)
 
 Akhir kata, saya meminta kepada Anda untuk mengunjungi link saya ( https://taplink.cc/rakifsul ), mengeksplorasinya, dan lebih baik lagi jika Anda mentraktir saya melalui link tersebut.
 
