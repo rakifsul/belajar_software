@@ -27,6 +27,7 @@ Berikut ini adalah daftar artikelnya:
 -   [Cara Mencari File Di Ubuntu Dengan Command Line](https://github.com/rakifsul/belajar_software/blob/main/Cara-Mencari-File-Di-Ubuntu-Dengan-Command-Line.md)
 -   [Cara Menambah Directory Ke PATH Ubuntu](https://github.com/rakifsul/belajar_software/blob/main/Cara-Menambah-Directory-Ke-PATH-Ubuntu.md)
 -   [Cara Menginstall Dan Menggunakan NVM Di Ubuntu Server](https://github.com/rakifsul/belajar_software/blob/main/Cara-Menginstall-Dan-Menggunakan-NVM-Di-Ubuntu-Server.md)
+-   [Cara Pin File Non Exe Ke Taskbar Di Windows 11](https://github.com/rakifsul/belajar_software/blob/main/Cara-Pin-File-Non-Exe-Ke-Taskbar-Di-Windows-11.md)
 
 Artikel ini gratis.
 
