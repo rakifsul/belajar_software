@@ -1,5 +1,7 @@
 # Belajar Software
 
+## Pendahuluan
+
 Ini adalah kumpulan artikel cara penggunaan software non coding untuk Windows, Linux, Web dan lain-lain.
 
 Bekal skill software non coding menurut saya sangat berguna untuk belajar coding.
@@ -13,6 +15,8 @@ Di sini, saya berencana untuk mempublikasi artikel seputar software non coding.
 Tapi itu bukan berarti artikel-artikel tersebut benar-benar bebas kode.
 
 Masih mungkin ada kodenya, tapi mungkin sedikit.
+
+## Isi artikel
 
 Berikut ini adalah daftar artikelnya:
 
@@ -29,12 +33,16 @@ Berikut ini adalah daftar artikelnya:
 -   [Cara Menginstall Dan Menggunakan NVM Di Ubuntu Server](https://github.com/rakifsul/belajar_software/blob/main/Cara-Menginstall-Dan-Menggunakan-NVM-Di-Ubuntu-Server.md)
 -   [Cara Pin File Non Exe Ke Taskbar Di Windows 11](https://github.com/rakifsul/belajar_software/blob/main/Cara-Pin-File-Non-Exe-Ke-Taskbar-Di-Windows-11.md)
 
-Artikel ini gratis.
+## Link Penting
 
-Jika Anda ingin traktir saya, kunjungi link saya:
+Kunjungi juga link saya.
 
-https://taplink.cc/rakifsul
+Link untuk traktir atau beli produk saya:
 
-Di sana ada link untuk traktirnya dan link lainnya.
+- https://karyakarsa.com/rakifsul
+
+Link selengkapnya:
+
+- https://taplink.cc/rakifsul
 
 Selamat menikmati.
