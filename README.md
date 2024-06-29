@@ -33,16 +33,6 @@ Berikut ini adalah daftar artikelnya:
 -   [Cara Menginstall Dan Menggunakan NVM Di Ubuntu Server](https://github.com/rakifsul/belajar_software/blob/main/Cara-Menginstall-Dan-Menggunakan-NVM-Di-Ubuntu-Server.md)
 -   [Cara Pin File Non Exe Ke Taskbar Di Windows 11](https://github.com/rakifsul/belajar_software/blob/main/Cara-Pin-File-Non-Exe-Ke-Taskbar-Di-Windows-11.md)
 
-## Link Penting
-
-Kunjungi juga link saya.
-
-Link untuk traktir atau beli produk saya:
+## Link untuk Traktir
 
 - https://karyakarsa.com/rakifsul
-
-Link selengkapnya:
-
-- https://taplink.cc/rakifsul
-
-Selamat menikmati.
