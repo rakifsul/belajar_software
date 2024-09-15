@@ -28,6 +28,6 @@ Berikut ini adalah daftar artikelnya:
 -   [Cara Menginstall XAMPP Di Ubuntu](https://github.com/rakifsul/belajar_software/blob/main/Cara-Menginstall-XAMPP-Di-Ubuntu.md)
 -   [Cara Menginstall Dan Menggunakan NVM Di Ubuntu Server](https://github.com/rakifsul/belajar_software/blob/main/Cara-Menginstall-Dan-Menggunakan-NVM-Di-Ubuntu-Server.md)
 
-## Link untuk Traktir
+## Freelance Worker Link
 
-- https://karyakarsa.com/rakifsul/info
+- https://projects.co.id/public/browse_users/view/99bc11/rakifsul
